@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SenseIt
 
 IoT (Internet of Things) portal. Monitor sensors and devices from anywhere.
@@ -16,3 +17,7 @@ Tech stack: Node/Express/Angular/MongoDb/Passport/JWT/MQTT/HighCharts etc.
 
 
 Live URL: https://sense-it.herokuapp.com
+=======
+# wineCellarServer
+Node server for WineCellar App
+>>>>>>> ee311fbb9a396cb84d8d95094a248ce108a436bc
