@@ -1,23 +1,27 @@
 <<<<<<< HEAD
-# SenseIt
+# WineCellar Server App
 
-IoT (Internet of Things) portal. Monitor sensors and devices from anywhere.
+Rest API server for WineCellar Monitoring APP
 
 Features:
 
-1. Add/Edit new Sensors and Devices
+1. Provision new devices (factory setup)
 
-2. Monitor live data sent via MQTT from Mobile or Web Client
+2. Activate device (customer setup)
 
-3. Graph historical data
+3. Store customer data as time series
 
 4. Activate MQTT account, monitor connection status etc.
 
-Tech stack: Node/Express/Angular/MongoDb/Passport/JWT/MQTT/HighCharts etc.
+5. Provide REST API for web and mobile app to
+
+6. Monitor triggers and alarms
 
 
-Live URL: https://sense-it.herokuapp.com
+Tech stack: Node/Express/MongoDb/Passport/JWT/MQTT etc.
+
+
+Live URL:
 =======
-# wineCellarServer
-Node server for WineCellar App
+
 >>>>>>> ee311fbb9a396cb84d8d95094a248ce108a436bc
