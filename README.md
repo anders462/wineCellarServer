@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# WineCellar Server App
+# Wine Cellar Server App
 
 Rest API server for WineCellar Monitoring APP
 
